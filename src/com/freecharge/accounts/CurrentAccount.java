@@ -19,7 +19,4 @@ public class CurrentAccount extends Account{
 		this.type = type;
 	}
 	
-	
-	
-
 }

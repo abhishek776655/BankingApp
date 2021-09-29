@@ -44,7 +44,7 @@ public class MainActivityApp {
 					break;
 			}
 			
-		} while(choice!='3');
+		} while(choice!='4');
 		
 		
 	}
